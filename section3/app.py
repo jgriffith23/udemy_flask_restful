@@ -1,3 +1,5 @@
+"""Following along with Section 3 of REST APIs with Flask and Python."""
+
 from flask import Flask, request, redirect
 
 app = Flask(__name__)
