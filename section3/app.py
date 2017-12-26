@@ -1,4 +1,9 @@
-"""Following along with Section 3 of REST APIs with Flask and Python."""
+"""Following along with Section 3 of REST APIs with Flask and Python.
+
+   Code built upon the scaffold provided by Jose Salvatierra for his
+   lessons on REST APIs. Check out his course! It's fun. :)
+   https://www.udemy.com/rest-api-flask-and-python/learn/v4/overview
+"""
 
 from flask import Flask, request, redirect
 
